@@ -1,0 +1,16 @@
+{
+  "name": "1-exchange-rate-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "Este projeto é um exemplo de como consumir uma API de cotação de moedas",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
