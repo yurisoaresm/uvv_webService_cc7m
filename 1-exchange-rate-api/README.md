@@ -27,5 +27,7 @@ Para executar este projeto, siga os passos abaixo:
 3. Instale as dependências: `npm install`
 4. Execute o projeto: `npm start`
 
+> **Observação:** Para executar o projeto, é necessário ter uma chave de acesso à API Exchange Rate API. Para obter uma chave de acesso, acesse [exchangerate-api.com](https://www.exchangerate-api.com/). Crie um arquivo `.env` na raiz do projeto como cópia do arquivo `.env.example` e insira a chave de acesso à API no campo `API_KEY`.
+
 ## Requisitos
 - É necessário ter o Node.js instalado na máquina para executar este projeto. Para instalar o Node.js, acesse [nodejs.org](https://nodejs.org/).
