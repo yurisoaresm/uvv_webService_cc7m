@@ -10,7 +10,7 @@ Este projeto é um exemplo de código que demonstra a funcionalidade de uma API 
 - O projeto permite a transferência de criptomoedas entre carteiras (previamente criadas pelo usuário).
 
 ## Como Funciona
-1. O projeto possui um arquivo principal chamado [main.js](src/main.js), que é responsável por iniciar o servidor e chamar as funções que gerenciam as carteiras e exibem os saldos.
+1. O projeto possui um arquivo principal chamado [main.ts](src/main.ts), que é responsável por iniciar o servidor e chamar as funções que gerenciam as carteiras e exibem os saldos.
 2. Você pode usar um cliente HTTP (como o Postman) para fazer requisições à API de carteira de criptomoedas.
 
 ### Rotas
